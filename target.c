@@ -26,5 +26,5 @@ ael_time_increment =
 }
 ael_price_increment =
 {
-  .03
+  .01
 }

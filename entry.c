@@ -8,7 +8,7 @@ entry_tif = TIF_OPENING
 entry_tif_seconds =
 entry_order_limit =
 {
-  if(entry_trig, entry_price, 0)
+  max2(close * .95, pre_mkt_last * .955)
 }
 
 entry_aggregated_TIF = FALSE

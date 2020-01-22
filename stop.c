@@ -7,8 +7,8 @@ stop_price =
 {
   hard_stop
 }
-enable_trailing = TRUE
-trail_after_entry_complete = TRUE
+enable_trailing = FALSE
+trail_after_entry_complete = FALSE
 trail_once = FALSE
 trail_trigger =
 {
