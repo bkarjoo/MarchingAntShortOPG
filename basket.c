@@ -1,0 +1,24 @@
+#include "../functions.h"
+#include "vars.h"
+basket_name = name
+basket_description = name basket
+activate_dynamic_basket_rules = TRUE
+apply_dynamic_basket_rules_to_all_available_symbols = TRUE
+basket_rules =
+{
+  basket_rule
+}
+basket_symbols =
+{
+
+}
+
+basket_exclude =
+{
+  AGM.A AMNCB APPF ARTNB ASCMB ATROB BATRA BATRB BELFA BF.A BIO.B BLIBQ BRK.A BURCB BWLAB CBS.A CENT CNBKB COKEB CRD.B CWEN.A DGICB DISCB DISCK ERIEB FCNCB FOX FWONA FWONB GEF.B GLIBB GNE GOOG GTN.A HEI.A HNFSB HOVVB HSYFB HVT.A IPOA.U ISCB IVCRB JW.B KBALA KELYB LBTYA LBTYB LEN.B LGF.B LSXMA LSXMB LTRPB MCEMB MCRAB MDPEB MKC.V MOG.B MOVAA NORSA NWS NYTAB PDNLA PHII PTVCA QADB QRTEB RBCAB RCIAF RDIB ROSEU RUSHB SCXLB SENEB STZ.B TAP.A TDSNA TETAB TRBAB TROLB UA UBP UHID UONE VIA VLGEB VZACB WSO.B WTBFA ZG
+}
+
+basket_htb =
+{
+
+}
